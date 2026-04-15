@@ -1,6 +1,4 @@
-# COMP2090SEF Final Project Package
-
-This repository contains the final version of the COMP2090SEF project.
+# COMP2090SEF Project 
 
 ## Structure
 - `Task1_ParcelLockerSystem/` - OOP-based application
@@ -23,12 +21,3 @@ Self-study topics:
 - Min Heap
 - Radix Sort
 
-## Running the code
-See the `README.md` file inside each task folder for the user guide.
-
-## Before submission
-Please replace these placeholders in the report files before final submission:
-- Group Number
-- Submission Date
-- Name and SID
-- 5-minute video link
