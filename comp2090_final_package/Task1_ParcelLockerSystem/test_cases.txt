@@ -1,0 +1,10 @@
+Task 1 Suggested Test Cases
+===========================
+1. Add a new customer with valid phone number -> customer is added.
+2. Add another customer using the same student ID -> system shows duplicate error.
+3. Register a small parcel -> assigned to a small or larger locker.
+4. Register a heavy parcel -> assigned to a large locker.
+5. Search an existing parcel -> system shows locker number and pickup code.
+6. Pick up a parcel with wrong code -> system shows invalid code error.
+7. Save system data -> locker_data.json is created.
+8. Load saved data -> previous locker status is restored.
