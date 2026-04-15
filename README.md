@@ -29,12 +29,5 @@ This part includes Python implementations, a demonstration program, and the stud
 ## How to Run
 Please see the `README.md` and `USER_GUIDE.md` files inside each task folder for detailed instructions.
 
-## Submission Materials
-The repository should include:
-- Python source files
-- User guides
-- Project reports
-- 5-minute introduction video link
-
 ## Video Link
 Please paste the final 5-minute introduction video link here before submission.
