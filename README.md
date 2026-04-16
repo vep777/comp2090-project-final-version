@@ -30,5 +30,5 @@ This part includes Python implementations, a demonstration program, and the stud
 Please see the `README.md` and `USER_GUIDE.md` files inside each task folder for detailed instructions.
 
 ## Video Link
-Task 1:https://videotourl.com/videos/1776359826205-2f4bebe7-08bf-4bce-87a3-64a6632dd01b.mp4
-Task 2：https://videotourl.com/videos/1776357872339-6475ba51-83cf-457f-b866-6aad171a108c.mp4
+-Task 1:https://videotourl.com/videos/1776359826205-2f4bebe7-08bf-4bce-87a3-64a6632dd01b.mp4
+-Task 2:https://videotourl.com/videos/1776357872339-6475ba51-83cf-457f-b866-6aad171a108c.mp4
