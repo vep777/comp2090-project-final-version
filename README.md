@@ -5,7 +5,7 @@ This repository contains a Python project developed for COMP2090SEF Data Structu
 ## Repository Structure
 - `Task1_ParcelLockerSystem/` - OOP-based parcel locker management application
 - `Task2_Heap_RadixSort/` - self-study on a new data structure and a new algorithm
-- `reports/` - project report and study report in Word and PDF formats
+
 
 ## Task 1 - Campus Parcel Locker Management System
 Task 1 is a Python application for managing a campus smart parcel locker service. The system simulates the main workflow of parcel handling on campus, including customer registration, parcel registration, locker assignment, parcel search, parcel pickup, and data saving/loading.
